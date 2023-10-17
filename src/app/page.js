@@ -1,6 +1,3 @@
-
 export default function Home() {
-  return (
-   <h1>Hello World</h1>
-  );
+  return <div className="text-gray-500 text-center p-5">Hello Halka UI</div>;
 }
